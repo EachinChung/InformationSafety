@@ -1,0 +1,21 @@
+# 以下将被 Git 忽略
+htmlcov
+.DS_Store
+
+# Pyhton 环境
+venv
+__pycache__
+
+# 环境文件
+.env
+
+# 错误日志
+err.log
+
+# sqlite 文件
+.coverage
+data-dev.db
+
+# 编辑器目录和文件
+.idea
+.vscode
